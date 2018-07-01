@@ -1,6 +1,6 @@
 # Library-Management-System 
 # Kütüphane Yönetim Sistemi
-Bu uygulamada kütüphane yönetimi için bir sistem gerçekleştirilmiştir. Kütüphanenin veritababnında kitaplar ve sistemde uyeler bulunmaktadır. 14 günden fazla süresi geçtiğinde uyenin ucretlendirme süresi başlatılacaktır. Yönetici bu işlemlerin hepsini sistemde gerçekleştirebilmektedir. 
+Bu uygulamada kütüphane yönetimi için bir sistem geliştirilmiştir. Kütüphanenin veritababnında kitaplar ve sistemde uyeler bulunmaktadır. 14 günden fazla süresi geçtiğinde uyenin ucretlendirme süresi başlatılacaktır. Yönetici bu işlemlerin hepsini sistemde gerçekleştirebilmektedir. 
 
 ### Kullanılan Kütüphaneler
   * [JFoenix](https://github.com/jfoenixadmin/JFoenix) - JavaFX Tasarım Kütüphanesi
